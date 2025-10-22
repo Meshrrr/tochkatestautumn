@@ -178,6 +178,7 @@ def main():
     result = solve(lines)
     print(result)
 
+#reshenie
 
 if __name__ == "__main__":
     main()
